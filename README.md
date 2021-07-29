@@ -73,8 +73,8 @@ fari
 
 </head>
 </body>
-# for css the code is this but first creat css file name "fari" and then this bellow one.................................................
-  .empty{
+for css the code is this but first creat css file name "fari" and then this bellow one.................................................
+ .empty{
     padding: 10px;
     float: left;
     width: 45px;
